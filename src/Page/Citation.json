@@ -1,0 +1,357 @@
+[
+    {
+        "id": 0,
+        "text": "Crois que tu le peux et tu es à la moitié du chemin",
+        "auteur": "Théodore Roosevelt"
+    },
+    {
+        "id": 1,
+        "text": "La plupart des gens formidables oun atteint leur plus grand succés juste un pas au-delà de leur plus grand échec",
+        "auteur": "Théodore Roosevelt"
+    },
+    {
+        "id": 2,
+        "text": "La vie ; cest 10% de ce qui vous arrive et 90% de la façon dont vous y reégissez",
+        "auteur": "Théodore Roosevelt"
+    },
+    {
+        "id": 3,
+        "text": "je n'y suis pas arrivé en le souhaitant ou en l'esperant , mais en travaillant pour cela",
+        "auteur": "Théodore Roosevelt"
+    },
+    {
+        "id": 4,
+        "text": "je ne peux pas changer la direction du vent, mais je peux régler mes voiles pour toujours attendre ma déstination",
+        "auteur": "Théodore Roosevelt"
+    },
+    {
+        "id": 5,
+        "text": "N'abandonnez jamais, car c'est juste l'endroit et le memment ou le vent va tourner",
+        "auteur": "Harriet Beecher Stowe"
+    },
+    {
+        "id": 6,
+        "text": "L'homme qui propose des idées connaît le succes, celui qui les impose connait la rébellion",
+        "auteur": "Daniel Desbiens"
+    },
+    {
+        "id": 7,
+        "text": "L'envoie est la plus fantastique des énergies, elle laisse derrière elle, les échecs, les peurs et les mauvaises langues et transformer rêves et utopies en succèss",
+        "auteur": "Stéphane Théri"
+    },
+    {
+        "id": 8,
+        "text": "La vie est un succession d'enseignements qu'il faut vitre pour être compris",
+        "auteur": "Hélene Keller"
+    },
+    {
+        "id": 9,
+        "text": "Gardez à l'esprit que ni le succèss ni l'echec ne sont jamais définitifs",
+        "auteur": "Roger Babson"
+    },
+    {
+        "id": 10,
+        "text": "Lorsque la solution est simple, Dieu répond",
+        "auteur": "Albert Einstein"
+    },
+    {
+        "id": 11,
+        "text": "Dieu aime chacun de nous somme s'il n'y avait qu'un seul de nous",
+        "auteur": "Théodore Roosevelt"
+    },
+    {
+        "id": 12,
+        "text": "Car je connais les projets que j'ai pour toi déclre l'éternel, des projets pour te faire prospérer et ne pas te nuire, des projets pour te donner de l'espoir et un avenir",
+        "auteur": "jérémie 29:11"
+    },
+    {
+        "id": 13,
+        "text": "Goûtez et voyez que l'eternel est bon, bienheureux celui qui se réfugie en lui",
+        "auteur": "Psaume 34:8"
+    },
+    {
+        "id": 14,
+        "text": "Les vraies histoires d'âmor n'ont jamais de fin",
+        "auteur": "Richarch Bach"
+    },
+    {
+        "id": 15,
+        "text": "Quand une porte se ferme, une autre s'ouvre, mais nours regardons souvent si longtemps et avec tant de regret la porte férmée que nous ne voyons pas celle qui s'est ouverte pour nous",
+        "auteur": "Alexander Graham Bell"
+    },
+    {
+        "id": 16,
+        "text": "Aime toi toi-même. Alors oubliez ça .Alors, aime  le monce",
+        "auteur": "Marie Olivier"
+    },
+    {
+        "id": 17,
+        "text": "Des années d'amour ont été oubliées n dans la haine d'une minite",
+        "auteur": "Edgar Allan Poe"
+    },
+    {
+        "id": 18,
+        "text": "Je suis prépare au pire, mais j'espère le meilleur",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 19,
+        "text": "Coyez en vous et en vous-même, vous trouverez l'espoir ainsi que l'esprit . N'abandonnez jamais et n'arretez jamais de rever",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 20,
+        "text": "Le misérable n'a pas d'autre remeède que l'espoir",
+        "auteur": "Friedrich Nieztzsche"
+    },
+    {
+        "id": 21,
+        "text": "Je suis une personne qui réussit",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 22,
+        "text": "J'ai le droit de prendre de la place .",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 23,
+        "text": "Je choisis la paix",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 24,
+        "text": "Un pessimiste voit la difficulté dans chaque opportunité, un optimiste voit l'opportunité dans chaque difficulté",
+        "auteur": "Winston Churchill"
+    },
+    {
+        "id": 25,
+        "text": "Le success est le résultat de la perfection, du travail ac",
+        "auteur": "Friedrich Nieztzsche"
+    },
+    {
+        "id": 26,
+        "text": "Le secret du changement, c'est de concentrer toute son énergie, nom pas à lutter contre passé mails à construire l'avenir",
+        "auteur": "Socrate"
+    },
+    {
+        "id": 27,
+        "text": "Tojours livrer plus que prévu",
+        "auteur": "Larry Page"
+    },
+    {
+        "id": 28,
+        "text": "N'ecoutez pas trop l'avis des autres. La plupart des gens qui donnent beaucoup de conseils, sans réel intérêt derrière, ont tendance à généraliser toutes leur expériences, même les plus quelconques.Ne surintprétez pas lés événements.Je suis moi-même coupable d'avoir trop réfléchi aux problème.Créez et découvrez si votre création fonctionne",
+        "auteur": "FBen Sibermann"
+    },
+    {
+        "id": 29,
+        "text": "Il ya deux type de personnes qui vous diront que vous ne pouvez pas faire une différence dans ce monde:ceux qui ont peur d'essayer et ceux qui ont peur  que vous réussissiez",
+        "auteur": "Ray Goforth"
+    },
+    {
+        "id": 30,
+        "text": "Le succés n'est pas final.L'echeck n'est pas fatal.C'est le courage de continuer qui compte.",
+        "auteur": "Winston Churchill"
+    },
+    {
+        "id": 31,
+        "text": "Si vous passez outre ce sentiment de peur, ce sentiment de prise de risque, des choses vraiment surprenantes peuvent arriver",
+        "auteur": "Marissa Mayer"
+    },
+    {
+        "id": 32,
+        "text": "Chaque fois que nous inaugurons une création, on nous hurle dessus.",
+        "auteur": "Angelo Sotira"
+    },
+    {
+        "id": 33,
+        "text": "Soyez incontestablement bon.Aucun effort de marketing ou mot qui fait fureur sur les médias sociaux ne peut se substituer à cela.",
+        "auteur": "Anthony Volodkin"
+    },
+    {
+        "id": 34,
+        "text": "Que faut-il pour lancer une entreprise?Trois règles simples:connaître son produit mieux que quiconque, connaître son clien et être motive par un ardent désir de réussite",
+        "auteur": "Dave Thomas"
+    },
+    {
+        "id": 35,
+        "text": "S'il faut plus de deux pizzas pour sustenter les intervenants, c'est que la réunion mobilise trop de personnes.",
+        "auteur": "Jeff Bezos"
+    },
+    {
+        "id": 36,
+        "text": "Si les gens vous aimes,ils vous écouteront, mais s'ils vous font affaires avec vous",
+        "auteur": "Zig Ziglar"
+    },
+    {
+        "id": 37,
+        "text": "Je suis convaicu que ce qui sépare les entrepreneurs qui ont du succès de ceux qui n'est ont pas est la persérvérance",
+        "auteur": "Steves Jobs"
+    },
+    {
+        "id": 38,
+        "text": "Le succès n'est que l'expression d'une vaste hallucination collective",
+        "auteur": "Charles Aznavour"
+    },
+    {
+        "id": 39,
+        "text": "La Bible est le plus beau succès de librairie que l'on avait vu;et cela prouve que les hommes ne sont pas difficiles",
+        "auteur": "Alain"
+    },
+    {
+        "id": 40,
+        "text": "Colore ta vie avec positif et tu trouveras la clé du succès",
+        "auteur": "Véronika Brison Delair"
+    },
+    {
+        "id": 41,
+        "text": "Le caractèere ne peut pas être mis au point dans la facilité et la tranquillité. Seulement par l'experience des épreuves et dans la souffrance, l'âme peut être renforée, l'ambition inspirée, et le succès atteint",
+        "auteur": "Helen Kelier"
+    },
+    {
+        "id": 42,
+        "text": "Dans l'esprit de l'ambitieux, le succès couvre la honte des moyens .",
+        "auteur": "Jean-Baptiste Massillon"
+    },
+    {
+        "id": 43,
+        "text": "Une grande parat de mon succèes est attribuable à ma capacité de me convaincre que je peux réussir quelque chose, même si je n'y connais absolument rien.",
+        "auteur": "Anthony Robbins"
+    },
+    {
+        "id": 44,
+        "text": "Celui qui avance avec confiance dans la direction de ses rêves connaîtra un succès inattendu dans la vie ordinaire",
+        "auteur": "N.H.Kleinbaum"
+    },
+    {
+        "id": 45,
+        "text": "Le succès ou l'échec d'une révolution peut toujours se mesurer au dégré selon lequel le statut de la femme s'en est trouvé rapidement modifié dans une direction progressive.",
+        "auteur": "Angela Davis"
+    },
+    {
+        "id": 46,
+        "text": "La politique enseinge à juger des devoirs par l'interêt, et du mérite par les suucèes",
+        "auteur": "Francis Bacon (philosophe)"
+    },
+    {
+        "id": 47,
+        "text": "Vous devez être le changement que vous voules voir dans ce monde",
+        "auteur": "Gandhi"
+    },
+    {
+        "id": 48,
+        "text": "Tu ne changeras jamais ta vie sans changer quelque chose quotidiennement; le secret du succès se trouve dans la routine de chaque jour",
+        "auteur": "John C Maxwell"
+    },
+    {
+        "id": 49,
+        "text": "Un médecin qui se vante de ses succès devrait changer de métier",
+        "auteur": "Christian Jacq"
+    },
+    {
+        "id": 50,
+        "text": "L'intelligent veut changer le monde, le sage veut changer sa perception du monde",
+        "auteur": "Jimmy BUAMA"
+    },
+    {
+        "id": 51,
+        "text": "Agissez commen s'il était impossible d'échouer",
+        "auteur": "Winston Churchill"
+    },
+    {
+        "id": 52,
+        "text": "Voir le possible là ou les autres voient l'impossible, telle est la clé du succès.",
+        "auteur": "Charles-Albert Poissant"
+    },
+    {
+        "id": 53,
+        "text": "Il est impossible que l'on soit Heureux si l'on ne veut pas l'être; il faut donc vouloir son bonheur et le faire",
+        "auteur": "Alain"
+    },
+    {
+        "id": 54,
+        "text": "Pour Connaître les amis il est nécessaire de passer par le succèes et le malheur. Dans le succès, nous vérifions la quantité et dans le malheur la qualité",
+        "auteur": "Confucius"
+    },
+    {
+        "id": 55,
+        "text": "Tout le monde peut sympathiser avec les malheurs de ses amis. Il faut une nature vraiment exceptionnelle pour sympathiser avec leur succès",
+        "auteur": "Oscar Wilde"
+    },
+    {
+        "id": 56,
+        "text": "La véritable épreuve de l'amitié, c'est le succès: car le malheur ne réclame que du secours et ne risque que la résistance de l'avarice; tandis que le succès voudrait de l'affection et ne rencontre que l'envie",
+        "auteur": "Auguste Detoeuf"
+    },
+    {
+        "id": 57,
+        "text": "Tu voulais être la petite amie de personne, et maintenant tu es l'épose de quelqu'un",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 58,
+        "text": "",
+        "auteur": ""
+    },
+    {
+        "id": 59,
+        "text": "Considérez cela comme une pure joie, mes frère et soeurs, chaque faites face à de épreuve de votre foi produit la persérvérnce. Laissez la persévérance finir son oeuvre pour que vous soyer mûrs et complets, ne manquant de rien.",
+        "auteur": "Jacques"
+    },
+    {
+        "id": 60,
+        "text": "Car dans l'evangile, la justice de Dieu est révélée: \"une justice qui est par la foi du premier au dernier, comme il est écrit-\" oeil le juste vivra par la foi",
+        "auteur": "Romains"
+    },
+    {
+        "id": 61,
+        "text": "Soyez for et courageux. N'aie pas peur et ne t'effraie pas à cause d'eux, car l'Eternel, ton Dieu, va avec toi; il ne vous quittera jamais ni ne vous abandonnera",
+        "auteur": "Deutéronome"
+    },
+    {
+        "id": 62,
+        "text": "L'Eternel est mon berger, je ne manque de rien.",
+        "auteur": "Psaume 23:1"
+    },
+    {
+        "id": 63,
+        "text": "L'amour est quelque chose qui ne sera jamais pleinement compris",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 64,
+        "text": "Votre imagination est la limite de votre amour",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 65,
+        "text": "On ne peut apprender l'amour qu'en aimant.",
+        "auteur": "Iris Murdoch"
+    },
+    {
+        "id": 66,
+        "text": "En rêve et en amour, rien n'est impossible .",
+        "auteur": "Jônos Arany"
+    },
+    {
+        "id": 67,
+        "text": "Aime et tu seras aimé",
+        "auteur": " Ralph Waldo Emerson"
+    },
+    {
+        "id": 68,
+        "text": "L'amour change les ténèbres en lumière et fait s'envoler le coeur sans ailes.",
+        "auteur": "Hélène Steiner Riz"
+    },
+    {
+        "id": 69,
+        "text": "La foi elle ne rend pas les choses faciles, elle les rend possibles",
+        "auteur": "Anomyme"
+    },
+    {
+        "id": 70,
+        "text": "Le commencement de la foi est le commencement de la fécondité; mais le début de l'incréduilité, si brillant soit-il, est vide",
+        "auteur": "Johann Wolfgang Von Goethe"
+    }
+]

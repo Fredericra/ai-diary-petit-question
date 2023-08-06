@@ -1,0 +1,578 @@
+[
+    {
+        "id": 0,
+        "question": "Est-ce que laravel est un framework javascript",
+        "reponse": "non",
+        "type":"click"
+    },
+    {
+        "id": 1,
+        "question": "Quel est le capital de Madagascar",
+        "reponse": "Antananarive",
+        "type":"text"
+    },
+    {
+        "id": 2,
+        "question": "Quel est la langue native à Madagascar",
+        "reponse": "Malagasy",
+        "type":"text"
+    },
+    {
+        "id": 3,
+        "question": "Comment s'apple les population à Madagascar",
+        "reponse": "Malgache",
+        "type":"text"
+    },
+    {
+        "id": 4,
+        "question": "Afrique du sud est dans continet Amerique",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 5,
+        "question": "Madagascar est un ile autour de l'ocena",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 6,
+        "question": "Singapour est un capital de chine",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 7,
+        "question": "L'ocean contient de vitamine et calcuim",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 8,
+        "question": "Quel est premier langue Internationa",
+        "reponse": "anglais",
+        "type":"text"
+
+    },
+    {
+        "id": 9,
+        "question": "Un disque dur est le seul  fais demare un oridinateur",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 10,
+        "question": "Qui je suis?",
+        "reponse": "Diary",
+        "type":"text"
+
+    },
+    {
+        "id": 11,
+        "question": "Comment appele president Française",
+        "reponse": "Emmanuel Macron",
+        "type":"text"
+
+    },
+    {
+        "id": 12,
+        "question": "Qui est le fondateur du facebook ?",
+        "reponse": "Mark Zuckberg",
+        "type":"text"
+    },
+    {
+        "id": 13,
+        "question": "Qui est le fondateur du twitter ?",
+        "reponse": "Elon Musk",
+        "type":"text"
+
+    },
+    {
+        "id": 14,
+        "question": "On se trouve le triange de bermude sur océan pacifique?",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 15,
+        "question": "Triange de bermide est une continent de l'est",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 16,
+        "question": "L'Etat Unies est un etat federal",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 17,
+        "question": "Quel pays se trouve Airport 'Charles de Gaulle'",
+        "reponse": "Paris",
+        "type":"text"
+
+    },
+    {
+        "id": 18,
+        "question": "Quel pays se trouve Airport 'Pudong'",
+        "reponse": "Chine ",
+        "type":"text"
+
+    },
+    {
+        "id": 19,
+        "question": "Quel pays se trouve Airport 'Barcelona'",
+        "reponse": "Espagne",
+        "type":"text"
+
+
+    },
+    {
+        "id": 20,
+        "question": "Quel pays se trouve Airport 'Franz Josef Strauss'",
+        "reponse": "Alemagne",
+        "type":"text"
+
+    },
+    {
+        "id": 21,
+        "question": "Quel contient trouve Afghanistan !! est ce que continent Asiatique ou Amerique",
+        "reponse": "Asiatique",
+        "type":"text"
+
+    },
+    {
+        "id": 22,
+        "question": "Quel est le capital de Afghanistan",
+        "reponse": "Kabul",
+        "type":"text"
+
+    },
+    {
+        "id": 23,
+        "question": "Afghanistan a de surface 652 230 km2",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 24,
+        "question": "Nom native de populatin a Madagascar est Magascarien",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 25,
+        "question": "Madagascar est ile",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 26,
+        "question": "La langue native à Madagascar est Français",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 27,
+        "question": "Comore est un continent qui a des plusieur pays",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 28,
+        "question": "Quel pays appartient l'airport de 'Kandahar' ",
+        "reponse": "Afghanistan",
+        "type":"text"
+
+    },
+    {
+        "id": 29,
+        "question": "Quel argent (billet) utilise en Angola? ",
+        "reponse": "kwanza",
+        "type":"text"
+
+    },
+    {
+        "id": 30,
+        "question": "Capital de Angola",
+        "reponse": "Luanda",
+        "type":"text"
+
+    },
+    {
+        "id": 31,
+        "question": "Angola est dans continet Asiatique",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 32,
+        "question": "Quel pays à d'airport nommée KASANE",
+        "reponse": "Botswana",
+        "type":"text"
+
+    },
+    {
+        "id": 33,
+        "question": "Argent utilise a Botswana",
+        "reponse": "Botswana",
+        "type":"text"
+
+    },
+    {
+        "id": 34,
+        "question": "Capital de Botswana comme s'apple?",
+        "reponse": "Gaborone",
+        "type":"text"
+
+    },
+    {
+        "id": 35,
+        "question": "Brasília est le nom capital de Brezil",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 36,
+        "question": "Brezil est le premier puissance economique dans le monde?",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 37,
+        "question": "Le billet ou argent utilise en la Réunion est Euro",
+        "reponse": "oui",
+        "type":"click"
+    },
+    {
+        "id": 38,
+        "question": "De quel continent trouve FIJI",
+        "reponse": "Oceania Oceanie",
+        "type":"text"
+
+    },
+    {
+        "id": 39,
+        "question": "Capital de Fiji ",
+        "reponse": "Suva",
+        "type":"text"
+
+    },
+    {
+        "id": 40,
+        "question": "Egypte est dans continet Europeanne",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 41,
+        "question": "Capital d'Egype comment s'appele?",
+        "reponse": "cairo",
+        "type":"text"
+
+    },
+    {
+        "id": 42,
+        "question": "Capital de Canada comment s'appele?",
+        "reponse": "ottawa",
+        "type":"text"
+
+    },
+    {
+        "id": 43,
+        "question": "Canada appartient continent européen",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 44,
+        "question": "Quel pays a partient Universite Duala",
+        "reponse": "cameroon",
+        "type":"text"
+
+    },
+    {
+        "id": 45,
+        "question": "Quel pays a partient Universite d'Antananrivo",
+        "reponse": "madagascar",
+        "type":"text"
+
+    },
+    {
+        "id": 46,
+        "question": "Capital de italy , comment s'apple?",
+        "reponse": "rome",
+        "type":"text"
+
+    },
+    {
+        "id": 47,
+        "question": "Italie utlise dollar",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 48,
+        "question": "Quel est le nom de capital Afrique du Sud",
+        "reponse": "pretoria",
+        "type":"text"
+
+    },
+    {
+        "id": 49,
+        "question": "Le billet utilise en Afrique du su est le RAND",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 50,
+        "question": "Quel est le capital de Japon,",
+        "reponse": "tokyo",
+        "type":"text"
+
+    },
+    {
+        "id": 51,
+        "question": "Jerusalem est le capital de Irak",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 52,
+        "question": "Isreal est dans continet Européen",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 53,
+        "question": "Quel est le capital de Israel",
+        "reponse": "jerusalem",
+        "type":"text"
+
+    },
+    {
+        "id": 54,
+        "question": "Quel nom capital de Saint Barthélemy?",
+        "reponse": "gustavia",
+        "type":"text"
+
+    },
+    {
+        "id": 55,
+        "question": "Quel le captal de comore",
+        "reponse": "maroni",
+        "type":"text"
+
+    },
+    {
+        "id": 56,
+        "question": "Superficie de comore",
+        "reponse": "1862",
+        "type":"text"
+
+    },
+    {
+        "id": 57,
+        "question": "San andrés c'est ne pas un lieu c'est juste illusion de jeux",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 58,
+        "question": "Capital de Coréen du sud ?",
+        "reponse": "seoul",
+        "type":"text"
+
+    },
+    {
+        "id": 59,
+        "question": "Chine est le plus grand pays dans contient Asiatique",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 60,
+        "question": "Est ce-que le courant provient dans un l'eau ?",
+        "reponse":"non",
+        "type":"click"
+
+    },
+    {
+        "id": 61,
+        "question": "Tesla est le grand physician decouverte de electricite?",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 62,
+        "question": "Samsung ou I-PHone le smarte phone plus utlise?",
+        "reponse": "samsung",
+        "type":"text"
+
+    },
+    {
+        "id": 63,
+        "question": "Le panneaux solaire a de source energie illimite etérnel ?",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 64,
+        "question": "Quel pays origine de frabrique de smarte PHONE samsung",
+        "reponse": "corée du sud Koréan",
+        "type":"text"
+
+    },
+    {
+        "id": 65,
+        "question": "Vue js est un framework ou librairy?",
+        "reponse": "framework",
+        "type":"text"
+
+    },
+    {
+        "id": 66,
+        "question": "Vue js est un framework php?",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 67,
+        "question": "Inteligence Artificielle est un être hummain",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 68,
+        "question": "Tous les pays dans le monde a des drapeaux?",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 69,
+        "question": "Quel est le capital de France?",
+        "reponse": "paris",
+        "type":"text"
+
+    },
+    {
+        "id": 70,
+        "question": "Paris Saint Germain est un ville dans France?",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 71,
+        "question": "Paris Saint Germain est un club de foot ou club de danse",
+        "reponse": "club de foot",
+        "type":"text"
+
+    },
+    {
+        "id": 72,
+        "question": "Python est un langage de programmation ?",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 73,
+        "question": "Le pays Bangladesh situe au constinent ASIATIQUE ?",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 74,
+        "question": "Mayotte est un île appartien à Madagascar",
+        "reponse": "non",
+        "type":"click"
+
+    },
+    {
+        "id": 75,
+        "question": "Namibia utilise billet DOLLAR?",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 76,
+        "question": "Capital de Namibia",
+        "reponse": "windhoek",
+        "type":"text"
+
+    },
+    {
+        "id": 77,
+        "question": "Combien de pays est dans le monde ?",
+        "reponse": "250",
+        "type":"text"
+
+    },
+    {
+        "id": 78,
+        "question": "Capital de Croatie",
+        "reponse": "zagreb",
+        "type":"text"
+
+    },
+    {
+        "id": 79,
+        "question": "Comment s'apple le slogan de Drama coréen",
+        "reponse": "kdrama",
+        "type":"text"
+
+    },
+    {
+        "id": 80,
+        "question": "Gagnam est ville en Corée du sud?",
+        "reponse": "oui",
+        "type":"click"
+
+    },
+    {
+        "id": 81,
+        "question": "Quel pays appatient cette ville 'Doha'",
+        "reponse": "qatar",
+        "type":"text"
+
+    },
+    {
+        "id": 82,
+        "question": "Qatar est un pays Asiatique ? ",
+        "reponse": "oui",
+        "type":"click"
+
+    }
+]

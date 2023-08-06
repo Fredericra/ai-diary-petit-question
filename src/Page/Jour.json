@@ -1,0 +1,71 @@
+[
+    {
+        "id": 0,
+        "text": "L'energie est constatnte , et vous êtes plus apte à gérer la routine du quotidien, ainsi, que les corvées . Vous pourriez aller lin si vous gardiez votre attetion en éveil.Une relation amicale pourrait avoir besoin de voutre soutien",
+        "Sante": "60%",
+        "Amour": "50%",
+        "Travail": "20%",
+        "coleur": "gris"
+    },
+    {
+        "id": 1,
+        "text": "Des erreurs seront susceptible d'installer un confit dans votre vite personnelle",
+        "Sante": "40%",
+        "Amour": "80%",
+        "Travail": "20%",
+        "coleur": "blue"
+    },
+    {
+        "id": 2,
+        "text": "Les planète éleve vos espoirs dans l'amours , et vous pourrier bientôt oublier le passé pour vous tourner vers l'avenir",
+        "Sante": "40%",
+        "Amour": "80%",
+        "Travail": "20%",
+        "coleur": "blue"
+    },
+    {
+        "id": 3,
+        "text": "Gardez un oei observateur , sur votre entourage. Une personne a les yeux rivés sur vous. Attention, il y de la concurence dans l'air! Le seul incovénient, c'ést que cela pourrait générrer des jalousies difficiles à contrôler",
+        "Sante": "40%",
+        "Amour": "80%",
+        "Travail": "20%",
+        "coleur": "vert"
+    },
+    {
+        "id": 4,
+        "text": "Ne gaspillez pas votre énergie et méfier-vous des personne qui essaiet d'expliter votre dynamisme et votre savoir-faire. Vous avez des idées mais vous devez essayer de les protéger aux mieux.",
+        "Sante": "40%",
+        "Amour": "80%",
+        "Travail": "20%",
+        "coleur": "blue"
+    },
+    {
+        "id": 5,
+        "text": "Que vos relation soient amoreuses ou platoniques , il est toujours bon de savoir ces vers oui vous vous diriges. Il est temps d'aller au fond de choses et de lever les malentendus.Porfitez pleinement de Chaque Moment",
+        "Sante": "40%",
+        "Amour": "80%",
+        "Travail": "20%",
+        "coleur": "dark"
+    },
+    {
+        "text": "Des rélations étroites pourraient abuser de votre patiente, jusqu'au point de rupture. Et vous en resterez le soufle coupé. Vous aurez besoin de prendre des distances, afin que votre colére retombe. Toutefois, il y aura des questions de fond en cause, que vous réglérez ultérieurement ",
+        "Sante": "10%",
+        "Amour": "45%",
+        "Travail": "47%",
+        "coleur": "gray"
+    },
+    {
+        "text": "Vous devriez élargir vos horizons, aujourd'hui, afin de découvrir de nouveaux environements. De nouvelles découvertes vous sortiront de votre état de solitude et d'isolement. A présent, vous acceptez de faire de nouvelles rencontres. Vos blessures du passés se sont enfin effacées",
+        "Sante": "50%",
+        "Amour": "85%",
+        "Travail": "34%",
+        "coleur": "rouge"
+    },
+    {
+        "text": "Vous chances de succès dans les relations personnelles étroites, s'élèvent aujourd'hui. Vous devriez tout de même, faire une effort. Alors, ne refusez pas les sorties et les invitations. Montrez vous à votre melleur jour, car on vous sollicitera",
+        "Sante": "80%",
+        "Amour": "15%",
+        "Travail": "12%",
+        "coleur": "blue ciel"
+    }
+]

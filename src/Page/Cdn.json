@@ -1,0 +1,28 @@
+[
+    {"text":"je suis l'application web DIARY , petit reponse pour vous !! je vous remercie pour vous cher utilisateur","cle":"vous"},
+    {"text":"Laravel c'est une framework PHP, qui vous créer votre site web dinamique rapidement , je vous donne rendez-vous sur document officiel laravel !! ","cle":"laravel"},
+    {"text":"Javascript c'est une langage de programmation web , pour front-end ou back-end et aussi pour l'application mobile et desktop !! je vous donne rendez-vous sur site web MDN pour plus infos","cle":"javascript"},
+    {"text":"Php ,Langage pour votre creation site dinamique , il y a aussi de creation APPS mobile comme LARACON et Desktop , je vous donne rendez-vous sur PHP.NET!!","cle":"php"},
+    {"text":"Afrique est une continent plus vaste , plusieur pays comme NIGERIA, MADAGASIKARA,COTE IVOIR, CENTRE AFIQUE, MAROQUE","cle":"afrique"},
+    {"text":"Je vous ranconte une blague pour vous, il y a une utilisateur qui utilise application web DIARY, il demande qui etez vous? je dis:\" je suis votre application de en ligne\" ","cle":"blague"},
+    {"text":"Je suis désole, je suis petit question vous pouvez mets autre ,question comment, qui est vous...","cle":"apprendre"},
+    {"text":"J'espere que vous dis donne ou data !!! data pour stocker plus element dans votre ordinateur ou votre telephone mobile ou autre ","cle":"donne"},
+    {"text":"Je ne comprends bien vous mais vous semble devant votre ordinateur ....!!","cle":"suis"},
+    {"text":"Je suis desole je ne vois rien ....!!","cle":" "},
+    {"text":"Python bon langage de programmation , je ne pas sur bien mais c'est un bon langage","cle":"python"},
+    {"text":"Je vous donne les langage de programmation pour vous,1-Javascript 2-PHP 3-PYTON 4-C 5-C# 6-JAVA 7-C++ ...etc ect  ","cle":"langage programmation"},
+    {"text":"Je ne suis sur mais je vous donne les rang langue international , 1- ANGLAIS 2-FRANCAIS 3-ESPAGNION 4-ALEMMAND .....","cle":"langague"},
+    {"text":"Je vous donne une code php pour debutant <?php $hello='hello world' echo $hello //affiche hello word?>","cle":"code php"},
+    {"text":"Je vous donne une code laravel , premier apprend toi php mais laravel vous donne problem autant que vous n'avait de base php je vous remerci!!","cle":"code laravel"},
+    {"text":"C'est une Captial d'un pays en Afrique, nous trouve a l'ouest !!! Pays nom est Madagasikara ou Madagascar","cle":"antananarivo antananarive tananarive"},
+    {"text":"Pays autors des océon et des petit île comme Comore, Seychelle, Mayotte....","cle":"madagasikara madagascar"},
+    {"text":"Pays européen entre l'Allemagne est Espagne , je ne beaucoup chose a dire ....merci a vous","cle":"france "},
+    {"text":"Socite fabrication de smarte PHONE célebre dans le monde est domminate, est-ce que je vous ments apres l'IPHONE...","cle":"samsung"},
+    {"text":"Outils qui vous maintenir a saissisez le text pour votre poste ordinateur en a deux type clavier français AZERT et clavier angalis QWERT...","cle":"clavier"},
+    {"text":"Wifi , outils qui vous permet de relié votre smarte phone et box...c'est le plus simple et plus rapide pour votre communaute et votre connexion dans le monde","cle":"wifi"},
+    {"text":"Regex vous permet de donne les affirmation de existance d'un caracteur ou tableau ou objet à autre caracteur, exemple ///const variable = 'je vous aime'  /'vous'/.test(variable) //=>return true ","cle":"regex"}
+
+
+
+
+]
